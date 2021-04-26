@@ -1,0 +1,85 @@
+{  
+    "More":
+  [
+  {
+    "id":1,
+    "judul":"Surat Pendek Al-Quran Lengkap",
+    "image":"https://lh3.googleusercontent.com/KU61Q7HMhM0XSGTp8o_28o1ommhzXIZYcBXl1ycRGVYDt-z1TMz-sIc79KFVV0aQxA=s100-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.espasmedia.suratpendekalquranlengkap"
+  },
+  {
+    "id":2,
+    "judul":"Al Quran Indonesia",
+    "image":"https://lh3.googleusercontent.com/e713XLLNgPyKqy0IhtYON1ePv-97mWLpPBHfxzubqpl8X8my-wVKcoK6gsc-A-5t0xHg=s100-rw",
+     "link":"https://play.google.com/store/apps/details?id=com.espasmedia.alquranindonesialengkap"
+  },
+  {
+    "id":3,
+    "judul":"Hafalan Hadist Pendek Lengkap",
+    "image":"https://lh3.googleusercontent.com/YQTAsHBd4eLwRufs0nevNqNzvxjc5fSLPOUXbH6AdCBgzd8JdrXieLcrTBWS_kvZJFM=s100-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.espasmedia.hafalanhaditspendeklengkap"
+  },
+  {
+    "id":4,
+    "judul":"Hafalan Surat Pendek Al Quran",
+    "image":"https://lh3.googleusercontent.com/Zh0D85kT-9TUErIoInCRXVTywHN57O6ZIhj7F8NLXH2t3czSsSuJgB4ZFpg0Ex1PFG0=s100-rw",
+     "link":"https://play.google.com/store/apps/details?id=com.espasmedia.hafalansuratpendekalquran"
+  },
+  {
+    "id":5,
+    "judul":"Kumpulan Khutbah Idul Adha",
+    "image":"https://lh3.googleusercontent.com/oeNTJIFXyyXjNtHqIHQeNh_h2dkRm4C0OTFAuFFq5hcGkyu3tus1eQEaIGpzfn_kAF8C=s100-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.espasmedia.KumpulanKhutbahIdulAdha"
+  },
+
+    {
+      "id":6,
+      "judul":"Kumpulan Hadits Qudsi Lengkap",
+      "image":"https://lh3.googleusercontent.com/b9dz8ieuvvHmRzGcY394AXMPK71Pdhc76ROhCtX3wsB6y1wUUQrzCb2Cobp6kP-p4Q=s100-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.espasmedia.kumpulanhaditsqudsilengkap"
+    },
+
+    {
+      "id":7,
+      "judul":"Surat Surat Pendek Al-Quran",
+      "image":"https://lh3.googleusercontent.com/C6KDH5-5N72Y5QElxJkVuIpKpAmqttI103aa1S6xqRg3U947nFBQnez3Hp9rDxHZGH4=s100-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.espasmedia.suratsuratpendekalquran"
+    },
+
+    {
+      "id":8,
+      "judul":"Hafalan Hadits Shahih Pendek",
+      "image":"https://lh3.googleusercontent.com/KCVw1VEPzGU9jXglycDLSXr3ljAUdjlyBvmDJpgoBx0mrMBjMF6QwHreaCI2d2UiCw=s100-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.espasmedia.hafalanhaditsshahihpendek"
+    },
+
+    {
+      "id":9,
+      "judul":"Kumpulan Teks Sholawat",
+      "image":"https://lh3.googleusercontent.com/mfu53rYOgdQUvEOhujdgcrvvZ2dR2qWU9d_8nuLWY8HeGd0XVY1s7vuZ1U3YkXPP7o8=s100-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.espasmedia.kumpulantekssholawat"
+    },
+
+    {
+      "id":10,
+      "judul":"Hafalan Hadist Pendek",
+      "image":"https://lh3.googleusercontent.com/l8vwq50ECc33bdHTAxOsSxuv1RIsGcQ19-XNJ846miFS3FVhOqLxAEL2YEtS7gX8bg=s100-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.espasmedia.hafalanhaditspendek"
+    },
+
+    {
+      "id":11,
+      "judul":"Kumpulan Sholawat Lengkap",
+      "image":"https://lh3.googleusercontent.com/RFj7lV9dm-Q0oe5kdrY0rLAq9aP5lyCvwkVpSLmE2mI8aBV1qCHPwjIApRudGjfdDeU=s100-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.espasmedia.kumpulansholawatlengkap"
+    },
+
+    {
+      "id":12,
+      "judul":"Fadhilah Surat Yasin",
+      "image":"https://lh3.googleusercontent.com/VwCqW8e8fKuuSWoM92dcc6K7WZuLLe34_pE9iALGj6Eod7larcCwn-QBxhxe6A9gDJ8=s100-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.espasmedia.fadhilahsuratyasin"
+    }
+
+]
+}
